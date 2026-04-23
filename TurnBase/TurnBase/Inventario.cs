@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace TurnBase
 {
-    internal class Program
+    internal class Inventario
     {
-        static void Main(string[] args)
-        {
-
-        }
+        /*  A  */
     }
 }

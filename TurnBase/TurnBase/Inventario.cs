@@ -9,7 +9,7 @@ namespace TurnBase
     internal class Inventario
     {
         /*  A  */
-O
+
         public int dinero;
 
         public List<Unidad> unidades;

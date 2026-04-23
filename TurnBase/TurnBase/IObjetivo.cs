@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TurnBase
 {
-    internal interface IObjetivo
+    public interface IObjetivo
     {
         void TakeDamage(int amount);
         bool IsAlive();

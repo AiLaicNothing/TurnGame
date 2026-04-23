@@ -29,7 +29,8 @@ namespace TurnBase
             }
         }
     }
+}
 
     // llamar a la clase :
-   // Estructura casa = new Estructura("Casa", "Defensa", 100);
+    // Estructura casa = new Estructura("Casa", "Defensa", 100);
     //Estructura mina = new Estructura("Mina", "Recoleccion", 60);

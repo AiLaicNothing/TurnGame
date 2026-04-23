@@ -16,7 +16,7 @@ namespace TurnBase
         }
 
         // Método que intenta bloquear daño
-        public bool BloquearDanio()
+        public bool Bloquear()
         {
             if (!Activa)
                 return false;
@@ -35,13 +35,13 @@ namespace TurnBase
 // alguien ataca la mina
 //int daño = 30;
 
-//if (muro.BloquearDanio())
+//if (muro.Bloquear())
 //{
-  //  muro.RecibirDanio(daño);
+  //  muro.RecibirDaño(daño);
     //Console.WriteLine("defendido");
 //}
 //else
 //{
-  //  mina.RecibirDanio(daño);
+  //  mina.RecibirDañio(daño);
     //Console.WriteLine("estructuras dañadas");
 //}

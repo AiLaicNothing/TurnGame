@@ -10,6 +10,7 @@ namespace TurnBase
     {
         public void Game() 
         {
+            Inventario inventory = new Inventario();
 
             bool gameOver = false;
             while (!gameOver)
